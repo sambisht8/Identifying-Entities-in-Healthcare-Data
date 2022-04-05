@@ -30,7 +30,7 @@ But, note that it is not explicitly mentioned in the dataset about the diseases 
 
 Suppose you have been asked to determine the disease name and its probable treatment from the dataset and list it out in the form of a table or a dictionary like this.
 
- 
+ ![alt text](https://github.com/sambisht8/Identifying-Entities-in-Healthcare-Data/blob/main/0891d77b-b9ca-4e9d-8934-d9a9b078a51c-syntactic%20sol%20pic1.png?raw=true)
 
  
 
